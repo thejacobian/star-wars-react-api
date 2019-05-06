@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import PeopleContainer from './PeopleContainer/PeopleContainer';
 import PlanetsContainer from './PlanetsContainer/PlanetsContainer';
 import ShipsContainer from './ShipsContainer/ShipsContainer';
+
 import './App.css';
 
 class App extends Component {
